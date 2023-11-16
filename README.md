@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoDella&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoDella&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
